@@ -9,5 +9,6 @@ This code is a music player app in Flutter. we can play the music from internet 
 ✔️ GetX
 ## Architechture
 ✔️ MVC
+✔️ Clean Architechture
 
 ## GIF
