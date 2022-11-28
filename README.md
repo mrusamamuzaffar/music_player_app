@@ -1,16 +1,13 @@
-# music_player_getx_mvc
+# A_music_player_App_with_getx_mvc - Flutter
 
-A new Flutter project.
+This code is a music player app in Flutter. we can play the music from internet and using internal as well. In this project I just include the internal of the app. First you give the storage permission then this app will find mp3 audio music files in the internal and finally play the music. I hve used GetX statemanagement technique and MVC architecture.
 
-## Getting Started
+✔️ Sound NullSafety
 
-This project is a starting point for a Flutter application.
+## Statemanagement
 
-A few resources to get you started if this is your first Flutter project:
+✔️ GetX
+## Architechture
+✔️ MVC
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## GIF
