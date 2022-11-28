@@ -12,3 +12,10 @@ This code is a music player app in Flutter. we can play the music from internet 
 ✔️ Clean Architechture <br />
 
 ## GIF
+
+<p align="center">
+  <img 
+    width=40%
+    height=40%
+    src="https://user-images.githubusercontent.com/101565812/204213098-2c9425df-29c7-4c8d-9541-a4de1a7b7def.gif" >
+</p>
